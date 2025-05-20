@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<Ciro Bazán earned a PhD in Economics from the Universidad de Las Palmas de Gran Canaria (ULPGC)*-Spain. He also holds a Masters in Economics from the ULPGC and has a B.S. in Mechanical-Electrical Engineering from the Universidad de Piura (UDEP)-Peru. He received the Robert S. McNamara Fellowship from the World Bank Institute, which allowed him to finish his doctoral thesis during a research stay at the ULPGC. 
+<Ciro Bazán earned a PhD in Economics from the Universidad de Las Palmas de Gran Canaria (ULPGC)-Spain. He also holds a Masters in Economics from the ULPGC and has a B.S. in Mechanical-Electrical Engineering from the Universidad de Piura (UDEP)-Peru. He received the Robert S. McNamara Fellowship from the World Bank Institute, which allowed him to finish his doctoral thesis during a research stay at the ULPGC. 
 
 His main research areas are the economics of energy markets, macroeconomics, applied mathematics to economics, and social sciences. Recently, he has published academic articles in journals such as Energy Strategy Reviews, The Electricity Journal, Mathematics and Computers in Simulation, International Journal of Differential Equations, and Economies. Has contributed to scientific research conferences (in person, virtual, and posters) organized by prestigious institutions in Spain, Ecuador, Chile, and Peru. Moreover, he has published textbooks on dynamic macroeconomics and dynamical systems for economists. 
 
