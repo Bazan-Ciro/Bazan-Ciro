@@ -8,7 +8,7 @@ I have taught at the UDEP, Universidad Católica Santo Toribio de Mogrovejo (USA
 
 I am Certified as a Researcher in Science and Technology by the National Council of Science, Technology and Technological Innovation (CONCYTEC) of Peru. I am a member of the International Association for Energy Economics (IAEE) and the American Economic Association (AEA). 
 
-My webpage is the following: https://sites.google.com/view/ciroeduardobazannavarro/home
+My website is the following: https://sites.google.com/view/ciroeduardobazannavarro/home
 <!---
 **Bazan-Ciro/Bazan-Ciro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
