@@ -1,4 +1,4 @@
-## Hi there 👋
+## 
 
 <I earned a PhD in Economics from the Universidad de Las Palmas de Gran Canaria (ULPGC)-Spain. I also holds a Masters in Economics from the ULPGC and I am a Mechanical-Electrical Engineer from the Universidad de Piura (UDEP)-Peru. I received the Robert S. McNamara Fellowship from the World Bank Institute, which allowed me to finish my doctoral thesis during a research stay at the ULPGC. 
 
@@ -9,6 +9,20 @@ I have taught at the UDEP, Universidad Católica Santo Toribio de Mogrovejo (USA
 I am Certified as a Researcher in Science and Technology by the National Council of Science, Technology and Technological Innovation (CONCYTEC) of Peru. I am a member of the International Association for Energy Economics (IAEE) and the American Economic Association (AEA). 
 
 My website is the following: https://sites.google.com/view/ciroeduardobazannavarro/home
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="[https://www.linkedin.com/in/1010nishant](https://www.linkedin.com/in/cirobazan/)/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="[https://twitter.com/1010nishant](https://x.com/ciroeduardo1972)" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="X" height="50" width="50" /></a> 
 <!---
 **Bazan-Ciro/Bazan-Ciro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
