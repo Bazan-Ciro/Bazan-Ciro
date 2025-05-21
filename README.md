@@ -29,7 +29,7 @@ My website is the following: https://sites.google.com/view/ciroeduardobazannavar
 <img src="https://profile-counter.glitch.me/Bazan-Ciro/count.svg" />
 
 ### 📫 Follow me on 
-![Twitter](https://img.shields.io/twitter/follow/ciroeduardo1972?style=social)
+![Twitter follow](https://img.shields.io/twitter/follow/ciroeduardo1972?style=social)
 
 <!---
 **Bazan-Ciro/Bazan-Ciro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
