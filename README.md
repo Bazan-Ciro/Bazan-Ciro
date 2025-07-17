@@ -25,7 +25,8 @@ My website is the following: https://sites.google.com/view/ciroeduardobazannavar
 <a href="mailto:ciroeduardo1972@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="50" width="50" /></a> 
 
 ### Visitor count
-![Visitor Count](https://profile-counter.glitch.me/Bazan-Ciro/count.svg)
+![GitHub Repo stars](https://img.shields.io/github/stars/Bazan-Ciro/azan-Ciro/.svg?style=social)
+
 
 ### 📫 Follow me on 
 ![Twitter follow](https://img.shields.io/twitter/follow/ciroeduardo1972?style=social)
