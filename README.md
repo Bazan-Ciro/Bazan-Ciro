@@ -24,10 +24,6 @@ My website is the following: https://sites.google.com/view/ciroeduardobazannavar
 <a href="https://www.linkedin.com/in/cirobazan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:ciroeduardo1972@gmail.com"> <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" height="50" width="50" /></a> 
 
-### Visitor count
-![GitHub Repo stars](https://img.shields.io/github/stars/Bazan-Ciro/azan-Ciro/.svg?style=social)
-
-
 ### 📫 Follow me on 
 ![Twitter follow](https://img.shields.io/twitter/follow/ciroeduardo1972?style=social)
 
