@@ -1,6 +1,6 @@
 ## 
 
-I earned a PhD in Economics from the Universidad de Las Palmas de Gran Canaria (ULPGC)-Spain. I also holds a Masters in Economics from the ULPGC and I am a Mechanical-Electrical Engineer from the Universidad de Piura (UDEP)-Peru. I received the Robert S. McNamara Fellowship from the World Bank Institute, which allowed me to finish my doctoral thesis during a research stay at the ULPGC. 
+<p style="text-align: justify;">I earned a PhD in Economics from the Universidad de Las Palmas de Gran Canaria (ULPGC)-Spain. I also holds a Masters in Economics from the ULPGC and I am a Mechanical-Electrical Engineer from the Universidad de Piura (UDEP)-Peru. I received the Robert S. McNamara Fellowship from the World Bank Institute, which allowed me to finish my doctoral thesis during a research stay at the ULPGC.</p> 
 
 My main research areas are the economics of energy markets, macroeconomics, applied mathematics to economics, and social sciences. Recently, I have published academic articles in journals such as Energy Strategy Reviews, The Electricity Journal, Mathematics and Computers in Simulation, International Journal of Differential Equations, and Economies. I have contributed to scientific research conferences (in person, virtual, and posters) organized by prestigious institutions in Spain, Ecuador, Chile, and Peru. Moreover, I have published textbooks on dynamic macroeconomics and dynamical systems for economists. 
 
