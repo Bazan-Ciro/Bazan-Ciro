@@ -1,14 +1,16 @@
 ## 
 
-<p style="text-align: justify;">I earned a PhD in Economics from the Universidad de Las Palmas de Gran Canaria (ULPGC)-Spain. I also holds a Masters in Economics from the ULPGC and I am a Mechanical-Electrical Engineer from the Universidad de Piura (UDEP)-Peru. I received the Robert S. McNamara Fellowship from the World Bank Institute, which allowed me to finish my doctoral thesis during a research stay at the ULPGC.</p> 
+<p style="text-align: justify;">PhD in Economics (Universidad de Las Palmas de Gran Canaria, Spain), with a Master’s degree in Economics and a BSc in Mechanical–Electrical Engineering (Universidad de Piura, Peru). Recipient of the Robert S. McNamara Fellowship (World Bank Institute), which supported the completion of my doctoral research during a research stay at ULPGC.</p> 
 
-My main research areas are the economics of energy markets, macroeconomics, applied mathematics to economics, and social sciences. Recently, I have published academic articles in journals such as Energy Strategy Reviews, The Electricity Journal, Mathematics and Computers in Simulation, International Journal of Differential Equations, and Economies. I have contributed to scientific research conferences (in person, virtual, and posters) organized by prestigious institutions in Spain, Ecuador, Chile, and Peru. Moreover, I have published textbooks on dynamic macroeconomics and dynamical systems for economists. 
+<p style="text-align: justify;">My research interests include energy economics, macroeconomics, dynamic economic modeling, and applied mathematics for economics. My work has been published in peer-reviewed international journals such as Energy Strategy Reviews, The Electricity Journal, Mathematics and Computers in Simulation, International Journal of Differential Equations, and Economies. I am also the author of textbooks on dynamic macroeconomics and dynamical systems for economists.</p> 
 
-I have taught at the UDEP, Universidad Católica Santo Toribio de Mogrovejo (USAT), Universidad ESAN, Universidad Peruana de Ciencias Aplicadas (UPC), Universidad San Ignacio de Loyola (USIL), among other higher education institutions. I have served as the director of Research at USAT and Head of the Academic Department of the Faculty of Business Administration (USAT). I was the former Director of Research at the Universidad Autónoma del Perú (UA) and past Dean of the Faculty of Business Sciences at USIL. Also, I was a research professor at USIL in the Faculty of Business Sciences. 
+<p style="text-align: justify;">I have over 25 years of experience in higher education as a university professor and researcher, having taught at institutions including UDEP, USAT, Universidad ESAN, UPC, and Universidad San Ignacio de Loyola (USIL). I have held senior academic leadership positions, including Dean of the Faculty of Business Sciences (USIL) and Director of Research at USAT and Universidad Autónoma del Perú.</p> 
 
-I am Certified as a Researcher in Science and Technology by the National Council of Science, Technology and Technological Innovation (CONCYTEC) of Peru. I am a member of the International Association for Energy Economics (IAEE) and the American Economic Association (AEA). 
+<p style="text-align: justify;">I am a Certified Researcher in Science and Technology (CONCYTEC – Peru) and a member of the International Association for Energy Economics (IAEE) and the American Economic Association (AEA).</p> 
 
-My website is the following: https://sites.google.com/view/ciroeduardobazannavarro/home
+
+🔗 Personal website:
+https://sites.google.com/view/ciroeduardobazannavarro/home
 
 
 <!-- Connect with me -->
